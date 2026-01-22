@@ -7,7 +7,7 @@
     {
       "name": "tv",
       "type": 0,
-      "url": "https://tv.nxog.top/m/tv/?ou=74",
+      "url": "https://tv.nxog.top/m/tv/?ou=7b",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
       "playerType": 2,
@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
+      "name": "📢天行健，君子以自强不息。——《周易·乾·象》",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -68,7 +68,7 @@
         ],
         "url_key": "wogg1",
         "threadinfo": {
-          "chunksize": 267,
+          "chunksize": 254,
           "threads": 16
         }
       }
@@ -90,7 +90,7 @@
         ],
         "url_key": "woog2",
         "threadinfo": {
-          "chunksize": 207,
+          "chunksize": 287,
           "threads": 16
         }
       }
@@ -1523,7 +1523,7 @@
     {
       "name": "失败手动换",
       "type": "1",
-      "url": "https://by1.nxog.eu.org/jx.php?ou=74&mz=0&url=",
+      "url": "https://by1.nxog.eu.org/jx.php?ou=7b&mz=0&url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
@@ -1533,17 +1533,17 @@
     {
       "name": "-关注-",
       "type": 1,
-      "url": "https://by1.nxog.eu.org/jx.php?ou=74&mz=1&url="
+      "url": "https://by1.nxog.eu.org/jx.php?ou=7b&mz=1&url="
     },
     {
       "name": "-装歌API-",
       "type": 1,
-      "url": "https://by1.nxog.eu.org/jx.php?ou=74&mz=2&url="
+      "url": "https://by1.nxog.eu.org/jx.php?ou=7b&mz=2&url="
     },
     {
       "name": "-公众号-",
       "type": 1,
-      "url": "https://by1.nxog.eu.org/jx.php?ou=74&mz=3&url="
+      "url": "https://by1.nxog.eu.org/jx.php?ou=7b&mz=3&url="
     },
     {
       "name": "装歌APP",
